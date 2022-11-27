@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:#efefef ;
+}
+
+h1,h2,h3,h4,h5{
+    color: rgb(0, 0, 0);
+
+}
+
+.container{
+    max-width: 1000px;
+    background-color: rgb(171, 195, 222);
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header{
+    
+}
+
+.profile_image{
+
+    width: 100px;
+    height: 120px;
+    border: 3px;
+    float: left;
+    
+}
+
+.header_bio{
+    float: left;
+    padding: 30px;
+}
+
+.header_contuct{
+    float: right;
+    padding: 30px;
+}
+
+.div_clear{
+    clear: both;
+}
+
+hr{
+    border:solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+/*---------------------------AboutMe section
+------------------------------------------------------*/
+#aboutme_section{
+
+}
+.content{
+    margin-bottom: 30px;;
+}
+.left_div{
+    width: 30%;
+    float: left;
+}
+.right_div{
+    width: 70%;
+    float: left;
+
+}
+.common_hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+    
+}
